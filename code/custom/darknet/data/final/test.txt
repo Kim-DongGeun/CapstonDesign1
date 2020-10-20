@@ -1,0 +1,6 @@
+/root/volume/custom/darknet/data/final/blazer_jean.jpg
+/root/volume/custom/darknet/data/final/onepiece.jpg
+/root/volume/custom/darknet/data/final/top_short.jpg
+/root/volume/custom/darknet/data/final/jean.jpg
+/root/volume/custom/darknet/data/final/short2.jpg
+/root/volume/custom/darknet/data/final/jacket1.jpg
